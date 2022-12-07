@@ -1,0 +1,11 @@
+nav .d-flex {
+  width: 100%;
+  background-color: #327798;
+}
+nav .d-flex .d {
+  display: flex;
+}
+
+.d div {
+  margin-left: 15px;
+}
