@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 nav .d-flex {
   width: 100%;
   background-color: #327798;
@@ -8,4 +12,8 @@ nav .d-flex .d {
 
 .d div {
   margin-left: 15px;
+}
+
+footer .d-flex {
+  background-color: #327798;
 }
